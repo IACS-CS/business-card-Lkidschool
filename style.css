@@ -1,4 +1,11 @@
 /* Your code here */
 main.cardone{
-  background-color: red;
+  background-color: black;
+}
+h1.cardone{
+  color:blue;
+}
+main.cardtwo{
+  background-color: green;
+
 }

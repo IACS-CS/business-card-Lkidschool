@@ -2,20 +2,20 @@
 do not modify
 */
 
-.card {
+main {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
 }
-.card.landscape {
+.cardone {
   width: 3.5in;
   height: 2in;
 }
-.card.portrait {
-  height: 3.5in;
-  width: 2in;
+.cardtwo {
+  width: 3.5in;
+  height: 2in;
 }
 body {
   display: flex;
