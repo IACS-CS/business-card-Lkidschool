@@ -7,6 +7,30 @@ h1.cardone{
 }
 h1.twenty{
   color:green;
+  margin-top: -214px;
+  margin-left: 66px;
+}
+h1.seven{
+  color:red;
+  margin-top: -59px;
+  margin-left: 80px;
+}
+h1.x{
+  color:blue;
+  margin-top: -59px;
+  margin-left: 95px;
+}
+em.emone{
+  color: white;
+  margin-top: -50;
+}
+img.logoone{
+  margin-top: 0px;
+  margin-left: 270px;
+}
+p.pone{
+  color: white;
+  margin-top: 0px;
 }
 main.cardtwo{
   background-color: green;
