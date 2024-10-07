@@ -34,9 +34,13 @@ p.pone{
 }
 main.cardtwo{
   background-color: green;
+  background-image: url("Luigi.png");
+  background-size: 342px;
 
 }
 div.flex-container{
-  background-color: red;
-  height: 10px;
+  height: 2in;
+}
+div.flex-container > *:nth-child(1){
+  
 }
