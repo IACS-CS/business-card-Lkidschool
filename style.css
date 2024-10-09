@@ -40,7 +40,20 @@ main.cardtwo{
 }
 div.flex-container{
   height: 2in;
+  display: flex;
+  justify-content: space-around;
 }
 div.flex-container > *:nth-child(1){
-  
+  align-self: flex-start;
+}
+div.flex-container > *:nth-child(2){
+  align-self: flex-end;
+}
+div.flex-container > *:nth-child(3){
+  align-self: flex-start;
+}
+h1.ihatethis{
+  color: blue;
+  margin-top: -30px;
+  margin-left: 3.25in;
 }
